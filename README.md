@@ -1,7 +1,7 @@
 # giphy
 
 ## Live Demo
-[https://laughing-lovelace-f60d1f.netlify.app/](https://laughing-lovelace-f60d1f.netlify.app/?source=github)
+[https://giphy-api-vue.netlify.app/](https://giphy-api-vue.netlify.app/?source=github)
 
 ## Project setup
 ```
